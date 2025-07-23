@@ -1,5 +1,32 @@
 {
     "cSpell.words": [
-        "dpkg"
+        "binutils",
+        "ccache",
+        "debian",
+        "jupyter",
+        "debuginfo",
+        "euxo",
+        "evcxr",
+        "FIXIT",
+        "grcov",
+        "nextest",
+        "objcopy",
+        "objdump",
+        "pipefail",
+        "profdata",
+        "readobj",
+        "rustfilt",
+        "rustup",
+        "sccache"
+    ],
+    "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*()",
+    "todo-tree.general.tags": [
+        "BUG",
+        "HACK",
+        "FIXME",
+        "TODO",
+        "XXX",
+        "[ ]",
+        "[x]"
     ]
 }
