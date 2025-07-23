@@ -1,6 +1,7 @@
 # Project path of these repo
 
->[!NOTE] - Useful extension inside VSCode
+>[!NOTE]
+>Useful extension inside VSCode
 ><!-- Keep the format -->
 > - TODO Highlight
 > - Todo Tree
